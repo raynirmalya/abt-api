@@ -2,10 +2,10 @@
 
 ##mysql = MySQL()
 
-server = 'quations.database.windows.net' ##'azure-jbatty.database.windows.net'
+server = 'questionsft.database.windows.net' ##'azure-jbatty.database.windows.net'
 database = 'questionnairedb'
-username = 'qadmin'
-password = 'Debugger1$'
+username = 'qftadmin'
+password = 'Th!sMyFirstSqlSrv'
 port = 1433
 driver = '{ODBC Driver 17 for SQL Server}'
 
